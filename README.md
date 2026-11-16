@@ -1,4 +1,4 @@
-# EEE4701/EEE5703 Verification & Validation Project 1
+# EEE4701/EEE5703 Verification & Validation Project #1
 
 ## Team Members
 
