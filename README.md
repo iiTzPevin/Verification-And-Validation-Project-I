@@ -24,23 +24,23 @@ Everything Else In `craft-vv-student/` Is The Course Starter Packet
 
 ```
 craft-vv-student/code/tb/project_one/
-├── vplan.md
-├── closure.md
-├── FINDINGS.md
-├── CONTRIBUTIONS.md
 ├── ai_log.md
+├── closure.md
+├── CONTRIBUTIONS.md
+├── FINDINGS.md
+├── vplan.md
 ├── REPORT.pdf
 ├── test_fifo.py
-├── Makefile
 ├── mutants_released.yaml
-├── tb/
-│   ├── driver.py
-│   ├── monitor.py
-│   ├── scoreboard.py
-│   └── coverage.py
-└── crv/
-    ├── transactions.py # Transaction And Constraints In One File
-    └── seeded_regression.py
+├── Makefile
+├── crv/
+│   ├── seeded_regression.py
+│   └── transactions.py # Transaction And Constraints In One File
+└── tb/
+    ├── coverage.py
+    ├── driver.py
+    ├── monitor.py
+    └── scoreboard.py
 ```
 
 ## How To Run
